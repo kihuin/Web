@@ -1,0 +1,58 @@
+h2 {
+  font-size: 30px;
+  text-align: center;
+  color: #36180c;
+  font-family: cursive, Snell Roundhand;
+}
+
+body{
+	background: #fef7da;
+  /*text-align: center;*/
+}
+
+.button {
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#a4a102;
+  border: none;
+  color: #6c3a13;
+  padding: 3px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  font-family: cursive, Snell Roundhand;
+  border-radius: 10px;
+}
+
+.div1{
+  margin-left: auto;
+  margin-right: auto;
+  margin:auto;
+  text-align: center;
+}
+
+.textt{
+padding: 2px 15px;
+background-color:#ecab7c;
+color: #6c3a13;
+font-family: cursive, Snell Roundhand;
+font-size: 16px;
+}
+
+.custom-checkbox {
+  margin-left: 750px;
+  height: 100px;
+  width: 400px;
+font-size: 20px;
+color: #6c3a13;
+font-family: cursive, Snell Roundhand;
+overflow: auto;
+}
+
+.color-background:nth-child(odd){
+  background:#a4a102 ;
+}
+.color-background:nth-child(even){
+  background:#ecab7c ;
+}
