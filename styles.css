@@ -29,7 +29,7 @@ body{
   margin-left: auto;
   margin-right: auto;
   margin:auto;
-  text-align: center;
+  text-align: center;\
 }
 
 .textt{
@@ -37,11 +37,11 @@ padding: 2px 15px;
 background-color:#ecab7c;
 color: #6c3a13;
 font-family: cursive, Snell Roundhand;
-font-size: 16px;
+font-size: 16px;;
 }
 
 .custom-checkbox {
-  margin-left: 750px;
+  margin-left: 757px;
   height: 100px;
   width: 400px;
 font-size: 20px;
